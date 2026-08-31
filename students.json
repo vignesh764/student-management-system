@@ -1,0 +1,26 @@
+[
+    {
+        "name": "ram",
+        "roll_no": "10",
+        "department": "cs",
+        "marks": 67
+    },
+    {
+        "name": "sita",
+        "roll_no": "11",
+        "department": "bs",
+        "marks": 69
+    },
+    {
+        "name": "sam",
+        "roll_no": "13",
+        "department": "cs",
+        "marks": 60
+    },
+    {
+        "name": "kane",
+        "roll_no": "12",
+        "department": "cse",
+        "marks": 65
+    }
+]
